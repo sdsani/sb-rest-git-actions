@@ -9,5 +9,4 @@ public class SbRestGitActionsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SbRestGitActionsApplication.class, args);
 	}
-
 }
